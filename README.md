@@ -13,5 +13,3 @@ This repository contains the code and dataset results for evaluating the zero-sh
 * **Datasets:** `MBZUAI/ArabicMMLU` (MSA) and `QCRI/AraDiCE-ArabicMMLU-egy` (Egyptian Dialect)
 * **Hardware Profile:** Optimized for consumer-grade GPUs (e.g., NVIDIA T4) using `bitsandbytes` NF4 quantization.
 
-## Link to Full Paper
-The full academic paper detailing the evaluation metrics and error analysis can be found [Insert Link to your PDF if hosted online, or remove this line].
