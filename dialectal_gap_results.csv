@@ -1,0 +1,137 @@
+﻿variety,subject,level,true_answer,predicted_answer,is_correct,raw_model_output,question,option_A,option_B,option_C,option_D,source_dataset
+MSA,Driving Test,,B,B,True,B,يحظر ترك او القاء او وضع اى شي من شانة ان يعوق حركة المرور,خطأ,صحيح,,,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Primary,D,D,True,D,كان عذاب الله تعالى للذين كفروا من قوم نوح : ,أرسل عليهم ريحاً صرصر ,أرسل عليهم طيراً أبابيل ,حرمهم من الماء والخيرات  ,أغرقهم بالطوفان ,MBZUAI/ArabicMMLU
+MSA,Arabic Language,High,B,A,False,A,"""أنتن تعين الصواب""، ""أنت تعين الصواب""، وزن ""تعين"" في الجملتين بالترتيب ...:",تفعلن ـ تفعلين,تعلن ـ تعين,تفلن ـ تفين,تفعلن ـ تفين,MBZUAI/ArabicMMLU
+MSA,Biology,High,D,D,True,D,فى الخاصية الأسموزية ينتقل الماء من,التركيز الأعلى للماء إلى التركيز الأقل للماء,التركيز الأقل للذائبات إلى التركيز الأعلى للذائبات,من منطقة ضغط إسموزى أقل إلى منطقة ضغط إسموزى أعلى,جميع الإجابات السابقة صحيحة,MBZUAI/ArabicMMLU
+MSA,Geography,High,D,A,False,A,منطقة الالتقاء بين الاقتصاد البري  والاقتصاد البحري للدولة تتمثل في,المياة المحايدة,الحد البحري,المياة الملاصقة,خط الساحل,MBZUAI/ArabicMMLU
+MSA,Driving Test,,A,B,False,B,نقل سرعة الرجوع للخلف أثناء سير السيارة للأمام يسبب تلف صندوق التروس اليدوي.,العبارة صحيحة,العبارة خاطئة,,,MBZUAI/ArabicMMLU
+MSA,Arabic Language,High,C,C,True,C,"لا تكذبوني فيما أقول ... ما علامة إعراب الفعل "" تكذب "" ؟","ثبوت النون
+","السكون
+","حذف النون
+",حذف حرف العلة,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Primary,B,B,True,B, انزل الله التوراة علي سيدنا,عيسى,موسى,محمد,,MBZUAI/ArabicMMLU
+MSA,Political Science,Univ,B,A,False,A,يعد الأيمان بأولوية الفرد هو الملمح المميز لأليديولوجية .,النسوية,الليبرالية,المحافظة,اإلشتراكية,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Primary,C,C,True,C,كيف تكسب الأجر العظيم من نظافة بلدك ؟,لا يوجد علاقة بين الإسلام النظافة بالإيمان,لا يوجد أجر من نظافة,لقد ربط الإسلام النظافة بالإيمان,,MBZUAI/ArabicMMLU
+MSA,History,High,B,B,True,B,ضم المجلس التعاون العربي في عضويته دول:,الأردن وفلسطين,الأردن والعراق واليمن الشمالي ومصر,الأردن والعراق,الاردن والسعودية,MBZUAI/ArabicMMLU
+MSA,Arabic Language (Grammar),,A,A,True,A,"In the following Quranic verse, what is the correct parsing of the word
+فَــ",حرف عطف مبني على الفتح,نعت مجرور وعلامة جره الكسرة المقدرة,مضاف إليه مجرور وعلامة جره الكسرة,فعل أمر مبني على السكون,MBZUAI/ArabicMMLU
+MSA,Driving Test,,C,C,True,C,تأثير الكحول على سائق المركبة أثناء القيادة:,يشكّل خطرًا على الآخرين فقط,يشكّل خطرًا على السائق,يمكن أن يكون قاتلا للسائقين وللآخرين,,MBZUAI/ArabicMMLU
+MSA,Physics,High,D,C,False,C,ماذا أثبحث ججربة ثىمسىن حىل الانكحرووات ؟,الالكترونات لا كتلة لها,الالكترونات موجبة الشحنة,نسبة الشحنة إلى الكتلة للإلكترون تعتمد على نوع الغاز المستخدم,الالكترونات مكونات رئ سٌ ةٌ لكل الذرات,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Middle,D,D,True,D,	من أمثلة التناسق بين مكونات القرآن الكريم من آيات وسور وموضوعات: ,مناسبة السورة للتي تليها في الموضوع ,مناسبة بداية السورة لخاتمة السورة التي قبلها ,المناسبة بين بداية السورة ونهايتها ,جميع ما سبق ,MBZUAI/ArabicMMLU
+MSA,Arabic Language (General),,A,A,True,A,"اقرأ النص القصير التالي ثم اختر البديل المناسب لـ [فراغ] الذي يكمل الجملة بشكل صحيح
+ جمع (حى) [فراغ].",أحياء,حيات,حيان,أحيا,MBZUAI/ArabicMMLU
+MSA,Natural Science,Primary,B,B,True,B,المحللات هي الكائنات التي تحلل أجسام الكائنات الحية بعد موتها لتتغذى عليها:,خطأ,صح,,,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Primary,A,A,True,A,كانت حلیمة مرضعة الرسول تركب,حمارا,حصانا,فرسا,,MBZUAI/ArabicMMLU
+MSA,Economics,High,B,A,False,A,استخدام البنك والمؤسسه الماليه انظمه رقابيه متطوره في جمع ومعالجة البيانات والالتزام بما تتضمنه القوانين والانظمه بخصوص المعلومات يندرج في ) حقوق المستهلك المالي( :,الحمايه من عمليات الاحتيال,حماية سرية بيانات المستهلك,حماية مصالح العميل,الافصاح والشفافيه,MBZUAI/ArabicMMLU
+MSA,Arabic Language (Grammar),,C,C,True,C,"بالنظر الى الاربع كلمات التالية، أي كلمة لا تنتمي الى فئة الكلمات الأخرى؟
+الكلمة الغريبة هي",مطبخ,حمام,رياضة,غرفة,MBZUAI/ArabicMMLU
+MSA,Biology,High,A,B,False,B,يتكون اللاكتيت في الخلايا العضلية بفعل :,تأين اللاكتيك,أكسدة البيروفيت,التخمر الكحولي,اختزال + NAD,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Primary,B,B,True,B,غسل الرجل الیسرى یكون ..... عمل,اول,اخر,ثاني,,MBZUAI/ArabicMMLU
+MSA,Arabic Language,Primary,D,A,False,A,جمع كلمة مسافر :,مسافران,مسافرة,سفير,مسافرون,MBZUAI/ArabicMMLU
+MSA,Driving Test,,B,B,True,B,المركبه المصممة لنقل ما یزید على ثلاثین راكبا ھي:,سیارة الركوب المتوسطه.,الحافلة.,سیارة النقل المشترك.,لا شيء مما ذكر.,MBZUAI/ArabicMMLU
+MSA,Natural Science,Primary,A,A,True,A,تنمو في الغابات أشجار كثيرة بسبب …….. ,وفرة الأمطار وضوء الشمس  ,خصوبة التربة وقلة الأمطار  ,المناخ المعتدل وقلة الأمطار  ,وفرة الأمطار والمناخ الحار جدا ,MBZUAI/ArabicMMLU
+MSA,Arabic Language (Grammar),,A,A,True,A,"في الآية القرآنية ﴿إنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ القَدْرِ ﴾ ، ما هو الإعراب الصحيح لكلمة
+القَدْرِ",مضاف إليه مجرور وعلامة جره الكسرة,فعل ماض مبني على السكون,ضمير متصل في محل رفع فاعل,حرف توكيد ونصب,MBZUAI/ArabicMMLU
+MSA,Driving Test,,A,D,False,D,من المناطق التي يجب الحذر من تأثير قوة الرياح الجانبية على مستخدمي الطريق الآخرين:,مناطق الجسور عند عبورها,الأنفاق,التقاطعات المكشوفة, جميع ماذكر,MBZUAI/ArabicMMLU
+MSA,Social Science,Primary,B,A,False,A,تشتهر مدينة غزة بصناعة الصابون من زيت الزيتون.,صح,خطأ,,,MBZUAI/ArabicMMLU
+MSA,Arabic Language,Primary,A,A,True,A,أي من الأفعال التالية على وزن فاعل,كاتب,مكتوب,خلائق,بديل,MBZUAI/ArabicMMLU
+MSA,History,High,A,A,True,A,كان السبب في تراجع فرنسا عن ضرب إنجلترا في عقر دارها هو...............,تفوق الأسطول الإنجليزي بحريًّا,تفوق الجيش الإنجليزي بريًّا,تفوق إنجلترا في الكشوف الجغرافية,تفوق إنجلترا في الملاحة التجارية,MBZUAI/ArabicMMLU
+MSA,Law,Prof,D,D,True,D,يعهد إلى الشرطة القضائية:,التثبت من وقوع الجرائم,جمع الأدلة عن الجرائم,البعحث عن مرتكي الجرائم,جميع الأجوبة صحيحة,MBZUAI/ArabicMMLU
+MSA,Arabic Language (Grammar),,A,A,True,A,"أي من الخيارات التالية تكمل الجملة التالية باختيار الكلمة ذي البنية الصحيحة بدلاً من [فراغ]؟
+جاء [فراغ].و عشرون رجلاً .",واحد,إحدى,واحدة,واحدا,MBZUAI/ArabicMMLU
+MSA,Social Science,Primary,A,A,True,A,يعد الحوار والابتعاد عن توجيه اللوم المستمر من أهم أدوار الأسرة في بناء الشخصية,صحيح,غير صحيح,,,MBZUAI/ArabicMMLU
+MSA,Arabic Language,Primary,D,A,False,A,الوان العلم الأردني هي:,أسود، أحمر، أخضر,أبيض، أزرق,أحمر، أخضر، أسود، أزرق,أحمر، أخضر، أسود أبيض,MBZUAI/ArabicMMLU
+MSA,Driving Test,,C,C,True,C,لا يجوز للسائق في حال التجاوزات العادية,ان يستعمل المسرب الايمن الى الطريق,ان يضايق السائريين الى يمينه,أن يستعمل المسرب الايسر من الطريق,,MBZUAI/ArabicMMLU
+MSA,Math,Primary,A,A,True,A,عدد الحواس,5,4,3,,MBZUAI/ArabicMMLU
+MSA,Social Science,Middle,B,B,True,B,أعلنت الدولة الأردنية المستقلة باسم حكومة شرقي الأردن عام …….,1920,1921,1922,1916,MBZUAI/ArabicMMLU
+MSA,General Knowledge,Primary,D,D,True,D,…….. حجيرات مملوءة بالهواء توجد داخل عظام الوجه وتحيط بالأنف.  ,الرعاف ,الغضاض ,فقر الدم ,الجيوب الأنفية  ,MBZUAI/ArabicMMLU
+MSA,Driving Test,,A,B,False,B,یمكن زیادة مسافة الأمان بین المركبات إلى ثلاث ثوان بدلاً من ثانیتین في ظروف القیادة غیر الملائمة:,نعم,لا,,,MBZUAI/ArabicMMLU
+MSA,Driving Test,,D,D,True,D,من إجراءات الاسعافات الاولیة للنزیف:,طلب المساعدة الطبیة من خلال استدعاء الإسعاف فورا,العمل على إراحة المصاب من خلال وضعه على ظھره مع خفض الرأس عن مستوى الجسم,العمل على إیقاف النزیف.,جمیع ما ذكر.,MBZUAI/ArabicMMLU
+MSA,History,High,D,D,True,D,العام الذي شارك فيه الأردن في المؤتمر الدولي للسلام في مدريد ، هو :,1990,1973,1989,1991,MBZUAI/ArabicMMLU
+MSA,Arabic Language (Grammar),,D,E,False,E,"اختر الضمير المناسب لوضعه بدلاً من [فراغ] في الجملة التالية:
+[فراغ] باكستانية.",هن,هما,هم,هي,MBZUAI/ArabicMMLU
+MSA,Law,Prof,D,A,False,A,لا يمكن أ نْْ يودح قِ مؤسسة سجنية ولو بصفة مؤقتة الحدث الذ يِِ يترا ب عمره بين 2 سنة و18 سنة إلا:,إذا ظهر أن هذا التدبير ضروري,إذا استحال اتخاذ أي تدبير آخر,‏إذا أودع الحدث في السجن فإنه يحتفظ به في جناح خاص. وعند عدمه في مكان معزول عن أماكن وضع الرشداء,جميع الأجوبة صحيحة,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,,C,C,True,C,كم كان عمر النبي صلى الله عليه وسلم حين وفاة زوجته خديجة بنت خويلد رضى الله عنها؟,45 عاما,48 عاما,51 عاما,53 عاما,MBZUAI/ArabicMMLU
+MSA,General Knowledge,,A,A,True,A,من الدول المطلة على البحر العربي دولة…؟,سلطنة عمان,المملكة العربية السعودية,الاردن,ليبي,MBZUAI/ArabicMMLU
+MSA,Driving Test,,C,C,True,C,إن عدم موازنة الحمولة بشكل جيد قد تشكل خطورة كبيرة على حركة الآليات الثقيلة من خلال :,توزيع الحمولة بصورة منتظمة حول مركز ثقل المركبة,وضع حمل محوري مناسب يتلاءم مع مواصفات المركبة,توزيع الحمولة بصورة غير منتظمة حول مركز ثقل المركبة,لا شيء مما ذكر,MBZUAI/ArabicMMLU
+MSA,Islamic Studies,Primary,A,B,False,B,سخر كفار مكة من الرسول عند تأخر الوحي,صح,خطأ,,,MBZUAI/ArabicMMLU
+MSA,Management,Univ,B,B,True,B,"إختار الإجابة الصحيحة بنعم أو لا مما يأتي:
+
+إن السلطة والقوة مرادفان لمعنى واحد",نعم,لا,,,MBZUAI/ArabicMMLU
+MSA,Biology,High,B,C,False,C,تستطيع بعض النباتات انتاج مثبطات لانبات جراثيم بعض الكائنات الممرضة ويكون ذلك عن طريق,المستقبلات,الفينولات,السيفالوسبورين,انزيمات نزع السمية,MBZUAI/ArabicMMLU
+MSA,Arabic Language,High,C,A,False,A,- مسرحية ( دماء على أستار الكعبة) ألفها:,توفيق الحكيم,محمود تيمور,فاروق جويدة,صلاح عبد الصبور,MBZUAI/ArabicMMLU
+MSA,Natural Science,Primary,C,B,False,B,عملية سطحية فيزيائية أو كيميائية تغير شكل سطح الأرض، تسمى:,الترسيب,التعرية,التجوية,الدلتا,MBZUAI/ArabicMMLU
+MSA,General Knowledge,Middle,C,A,False,A,الأدوات التي تستعمل في تناول الطعام من ملاعق وشوكات وسكاكين وغيرها.  ,الأطباق ,النبرون ,الفضيات  ,طاولة المائدة  ,MBZUAI/ArabicMMLU
+MSA,Driving Test,,B,B,True,B,تعفى وسائط النقل التي تنقل المواد الخطرة والمارة بها عن طريق ( الترانزيت ) من وضع الملصقات الإرشادية,صحيح,خاطىء,,,MBZUAI/ArabicMMLU
+MSA,Driving Test,,A,A,True,A,في التصادمات العمومية فإن حزام الأمان يقي قائد السيارة ومن بجواره من القذف خارج السيارة.,العبارة صحيحة,العبارة خاطئة,,,MBZUAI/ArabicMMLU
+MSA,General Knowledge,,A,C,False,C,يضرب به المثل في الاعياء فيقال أعيى من…؟,باقل,هيقنة,أياس,مادر,MBZUAI/ArabicMMLU
+MSA,Driving Test,,C,A,False,A,يحظّر على السائقين عرقلة سير المركبات من خلال:,التوقف البطيئ,السير على الطريق دون السرعة المعمول بها,التوقف المفاجئ بدون سبب مشروع على المعبد,,MBZUAI/ArabicMMLU
+MSA,Biology,High,D,A,False,A,تعمل الغدة التيموسية على إنضاج الخلايا الليمفاوية الجذعية إلى,خلايا بائية,خلايا قاتلة طبيعية,خلايا قاعدية,خلايا تائية,MBZUAI/ArabicMMLU
+MSA,Math,Primary,A,A,True,A,من عوامل العدد 30 .........,3,13,70,,MBZUAI/ArabicMMLU
+MSA,Driving Test,,B,A,False,A,كل من تجاوز الإشارة الضوئية الحمراء تكون عقوبتة,الحبس مدة لا تزيد عن شهرين وبغرامة لا تزيد عن 75 د.ك او باحدي هاتين العقوبتين,الحبس مدة لا تزيد عن3 شهور والغرامة لا تزيد عن 300 د.ك او باحدي هاتين العقوبتين,الحبس مدة لا تزيد عن شهرين وبغرامة لا تزيد عن 100 د.ك او باحدي هاتين العقوبتين,,MBZUAI/ArabicMMLU
+MSA,Geography,High,D,D,True,D,"اذا اصبح الحد السياسي بني فرنسا و اسبانيا يسري عند اقدام
+جبال البرانس لصالح فرنسا فإن العلاقه بين فرنسا و اندورا سوف
+تشبه العالقه بين......",الهند و كشمير,كشمير و باكستان,سوازيلاند و جنوب افريقيا,جنوب افريقيا و ليسوتو,MBZUAI/ArabicMMLU
+EGY_DIALECT,Law,Prof,E,E,True,E,"لو نا انطلبش حضوراًعضاء الحكومة وكتاب الدولة ونواب كتاب الدولة، أولم يؤزن فيه فإن الشهادة يتلقاها كتابة بمنزل الشاهد:
+",الريس الأول لمحكمة الإستئناف,آض ينتدبه إذا كان الشاهد مقيما خارج نفوز المحكمة,يستعين الرئيس الأول أو الآضي اللي هو معينه بكاتب الضبط,توجه المحكمة اللي الأضية محالة ليها ملخص الوقائع  والطلبات والأسئلة  المطلوب أداء الشهادة فيها.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Biology,High,A,B,False,B,الاوكسينات تنتج من,الكولوبتيل أو القمم النامية,القمم النامية والبراعم,الساق,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Political Science,Univ,D,D,True,D,نـوع المسلمين الاولي فـ مسمّات الـ كم منها......,الخلف .,االمام.,الرلس.,ا&ب ‫بس .,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Islamic Studies,Primary,C,A,False,A,..ماية كتير بتغطي اليابس وبتغرقه.,تسونامي,ماية زمزم,الطوفان,البحر,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Economics,High,C,B,False,B,واحده من العبارات دى صح في اللي بيتعلأ بشروط أخد مرتب الوفاه الطبيعيه:,إكمال 36 اشتراك  فعلي  منها 6 اشتراكات متصله.,اكمال 36 اشتراك منها 6 اشتراكات فعليه.,إكمال 24 اشتراك  فعليًّ ، منها 6 اشتراكات متصله.,إكمال 24 اشتراك  فعليًّ ، منها 6 اشتراكات فعليه.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Islamic Studies,Middle,A,A,True,A,واحدة من اللي جاي ليست من الأسباب اللي تؤدي للتنعم في القبر,كسرة الأموال.,الصدق.,لاستقامة.,حسن الظن بالله.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,Primary,C,C,True,C,الرسول صلي الله عليه وسلم عفا عن اهل مكة   في احداث فتح مكة يقصد بيهم....,المحاربين.,عساكر.,‫الطلقاء.‬,المهاجرين.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Physics,High,C,C,True,C,درجة الحرارة اللي بتفقد فيها مادة الكوبلت خصائصها المغناطيسية هي:,درجة سلزيوس,درجة كلفن,درجة كوري,الدرجة الحرجة,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Economics,Univ,B,B,True,B,علاقة الكمية المطلوبة من سلعة ما و سعر السلعة المكملة بفرض سبات  العواملالتانية:,طردية,عكسية,سابتة,مفيش علاقة,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Economics,Univ,D,A,False,A,الكفاءة الديناميكية في المدى البعيد بتحصل قق لما:,منحنى إمكانات الإنتاج يطلع لمستوى  أعلى,تعكس التوزيع الاجتماعى المأبول للاستهلاك,مدى تحقيق النمو الاقتصادي وزيادة الانتاج,كل ده,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Islamic Studies,High,A,A,True,A,فتح موسى بن نصير الأندلس فى عهد الخليفة:,الوليد بن عبد الملك,مروان بن عبد الملك,موسى بن نصير,معاوية بن أبي سفيان,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Political Science,Univ,D,A,False,A, اتصفت أفكار الايدلوجيه ......... بالافكار الراديكاليه.,الإشتراكيه.,المحافظه.,الفوضويه,الليبراليه.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Social Science,Primary,A,B,False,B,.......أن أتعلم.,حقي,واجبي,شغل تطوعي,مساعده,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,Primary,D,C,False,C,تعتبر قرية........ مثال  على العصر الحجري الحديث.,عجلون,درعا,الجلمة,عين غزال,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Computer Science,High,C,B,False,B,ومن الأمسلة الصحيحة على عبارة جبرية منطقية,اكس,A AND NOT B,A+B,A AND C,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Islamic Studies,High,A,B,False,B,أعرف  دين الإسلام للناس وأحببهم فيه وأشجعهم علي دخوله مع الالتزام بأحكامه وأخلاقه و نشر الخير بينهم ,دعوة لربنا,الداعي لربنا,دخول الإسلام,دعوة الحق,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Computer Science,Primary,C,C,True,C,الذاكرة اللى بتعمل على زيادة سرعة أداء الكمبيوتر هى ذاكرة,القرص الصلب,الفلاش,الاتصال العشوائي RAM,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Political Science,Univ,A,B,False,B,من المفكرين الاسلاميين الرّيحة بنرو افكار م و لرتالهم الساسر ب رورة خٌالر برسرم و ورة مثال للدولة الاسلامية على أساس الدين السلم و القُمه...,يا فندم,ابن خلدون,ابن التم.,كل اللي فات,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,General Knowledge,Middle,B,A,False,A,....... استخدام التكنولوجيا الجديده وطرأ الدعاية الدعاية الإلكترونية تطبيأها.,‫تجاره إلكترونيه.‬,التسوأ الإلكتروني,تجارة  تأليدية,الإعلان,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Accounting,Univ,B,A,False,A,السؤال الاول : اختار رقم (أ)لوكانت العبارة صح ‘ ورقم( ب)لوكانت العبارة غلط في ظل نظام المراجعة على الكمبيوتر يلجأ المراجع إلى استخدام الكمبيوتر عادةً في أداءعالى:,صح,غلط.,,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Islamic Studies,,D,C,False,C,إيه هي الغزوة اللي اتأسرت فيها الشيماء أخت الرسول -صلى الله عليه وسلم- في الرضاعة؟,غزوة بدر,غزوة تبوك,غزوة أحد,غزوة حنين,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Arabic Language,High,D,D,True,D,إيه هي طريئة إلقاء الخبر :,ابتدائي.,طلبي.,انكارى.,كل اللي فات.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,General Knowledge,Middle,C,A,False,A,.......مية بتتفاعل مع الصابون لما بنستخدمه في الغسيل.,ميه سقعة,مية عادية,مية شمال,ميه سخنه,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Social Science,Middle,D,C,False,C,في سنة كام وقعت معاهدة فرساي....,١٩١٦ م,١٩١٧ م,١٩١٨ م,١٩١٩ م,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Computer Science,Univ,D,D,True,D,"مجموعة أجهزة الكمبيوتر المتصلة على الشبكة، واللي ممكن تشارك البيانات والمصادر، زي الطوابع، والمودم، وحاجات تانية، اسمها:
+",أجهزة الكمبيوتر المركزية,شبكات المنطقة المحلية,شبكات المنطقة الواسعة,مجموعة عمل أجهزة الكمبيوتر,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Geography,High,C,A,False,A,أشتهرت حضارة فيلكا بعمل الزراعة فيها و ده كان ل :-,خصوبة التربة,جبال كتير,هبوب  الرياح.,موقعها المتوسط.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Arabic Language,High,D,A,False,A," أدِّ أنت واجبك ... إعرب "" أنت "" ............................
+",ضمير مبني على الفتح في محل نصب منادى.,ضمير مبني على الفتح في محل رفع فاعل.,ضمير مبني على الفتح في محل رفع توكيد معنوي.,ضمير مبني على الفتح في محل رفع توكيد لفظي.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Accounting,Univ,C,A,False,A,لوكان رصيد حؤوأ الملكيه في نهاية فتره ماليه مدتها 6 شهور48111 جنيه وكانت المسحوبات الشهريه لصاحب الشركة ١٥١١ جنيه والاستثمارات الاضافيه خلال المده ٥١١ جنيه هيبأى رأس المال فى اول المده الماليه  :,٣٤١١١ ج,١١ ج.,١ ج.,حاجه من اللي فوأ,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Economics,Middle,B,C,False,C, الفرء بين مجموع دخل الفرد و مجموع المصاريف في فترة زمنية معينة.,المصروف,الرصيد,الدخل,النفئة,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Arabic Language (General),,C,B,False,B, اقرا الفقرة اللي فاتت وبعدين اختار الاخيار المناسب (فراغ) اللى بيكمل الجمله صح /  كان لابن بطوطه في حياته,رحله واحده.,رحلتين.,تلت رحلات.,اربع رحلات.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Islamic Studies,High,C,B,False,B,"ايه دلالة كلمة الرسول "" يمينك على ما يصدقك عليه صاحبك ""!!",اليمين في القضاء على نية الحالف.,اليمين في القضاء على نية الحالف والمستحلف.,اليمين في القضاء على نية المستحلف.,اليمين في القضاء على نية الشاهد.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Natural Science,Primary,A,A,True,A,بيتولد مع الكائن الحي يعني مبيحتاجش لتدريب زي رضاعة الحيوانات الصغيرة بعض الحيوانات زي أمهاتهم.,السلوك الفطري,السلوك المتعلم,المثيرات الداخلية,المثيرات الخارجية,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Driving Test,,A,B,False,B,لما الفرامل تتعطل فجأة، لازم تدوس عليها كزا مرة عشان ترجع تشتغل.,صح,غلط.,,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Geography,Middle,C,B,False,B, سد الموجب يوجد بدولة........ ,لبنان,مصر,الأردن,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,Middle,C,D,False,D,.. ..هي منطئة في جنوب شرق أوروبا و خليط من أعرق و لغات متعددة.,اليونان,شبه الجزيرة العربية,شبه جزيرة البلقاء,كرواتيا,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Arabic Language,Primary,D,D,True,D, مضاد كلمة الشفاء:,الصحه.,العافيه.,الجسم السليم.,المرض.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Social Science,Middle,D,B,False,B,ايه من الحاجات اللي جاية دي شبه زعامة الدولة الخارجية؟,الاعلان عن  العملة,حط القواعد.,فرض الضرايب,عمل اتفاقيات السلام,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Economics,Univ,D,A,False,A,معادلة الإسط الوحيد  الصافى ل وسيقة تأمين مؤقت متصدره ل شخص سنه س و مدتها ن و مبلغها وحدة النقد هى,د س / د س + ن,مـ س / د س,د س / ح س,مـ س - مـ س + ن / د س,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,Primary,A,C,False,C,إيه اسم آلهة  عند الادومين؟,قوس و هدد,اللات والعزي,بعل و القمر,عشتار وأيل,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Social Science,Primary,A,B,False,B,النيص من الحيوانات اللى عايشة فى فلسطين.,صح,غلط.,,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Geography,High,A,B,False,B,الغابات بتشكل نسبة أد إيه من مساحه اليابسه :,0.3,0.28,0.29,0.35,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Driving Test,,A,B,False,B,لو في تلج على الطريق، فحركة الدركسيون بتكون:,خفيفة,تقيلة,مفيش أي تغيير بيحصل عليها لأن حجم الإطارات كبير,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Law,Prof,C,C,True,C,لكل شخص يرى انه تضرر من جريمة:,انه يتأدم كطرف مدني أدام هيئة المحكمة,لو مكنش سبء له ان ينتصب طرف مدنى امام آضى التحئييء,كله صح,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Economics,Univ,A,D,False,D,التأمين الهندسي بيشمل :,أخطار التركیب,أخطاء المهنة,الأخطار البحریة,كل اللى فات,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Computer Science,Primary,B,B,True,B,اللبنة تنفع مرة واحدة بس,صح,غلط,,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Computer Science,High,C,D,False,D,الروبوت اللي بيستخدم في مساعدة  ذوى الاحتياجات الخاصة هو  :,الروبوت الأمني,الروبوت الصناعي,الروبوت الطبي,مش حاجة من اللي فوق,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Computer Science,Primary,A,C,False,C,هو جزء من البرامج المتاحة في البرنامج  العالمي لساعة برمجة,ماين كرافت,الرسام,سكراتش,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,Middle,C,A,False,A,إيه من الجايين دول يعتبر أسلحة حصار خفيفة:,المنجنيق,الدبابة,القوس,الدرع,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,General Knowledge,Primary,A,A,True,A,يستخدم في تعويض جسم المصاب من السوائل والملح الجلوكوز بشكل متوازن:,محلول معالجه الجفاف,المطهر,شريط لاصق,‫مرهم.‬,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Management,Univ,A,A,True,A,اختار الإجابة الصحيحة بنعم أو لا من اللي جاي :اتخاذ القرارات هو اساس الادارة العملية.,نعم,لا,,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Geography,High,D,A,False,A,مجموعة الإجراءات اللي بتقدر الحمولة البيئية، وبتحدد أسلوب الاستخدام المناسب في مشاريع التنمية، وتأثيرها على البيئة، دة اسمه:,التخطيط البيئي,الحمولة البيئية,التربية البيئية,التقييم البيئي,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Civics,Middle,D,A,False,A,أنهي واحده من مصايف الاردن:,العقبه.,البحر الميت.,المفرق.,دبين.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Driving Test,,A,D,False,D,رخصة السواقة من الدرجة الأولى (1) هي:,رخصة سواقة لكل أنواع الموتوسيكلات.,رخصة سواقة لسواقة مركبة أشغال.,رخصة سواقة لسواقة مركبة زراعية.,ولا حاجة من اللي اتقال.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Arabic Language,High,B,B,True,B,جمله واحده بس فيها اسم فعل أمر بمعنى الزم,عليك السلام ورحمة الله وبركاته.,عليك مزاكرتك.,عليك دين يجب أن تسدده.,عليك الدور في الإجابه.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Civics,Middle,D,B,False,B, نشط حيل التخريب في الاردن بين (1957-1946‏ م )وزاد النشاط الحزب:,الوطني.,القومي.,الديني.,الفكرى.,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,High,D,B,False,B,"الورقة الحوارية لجلالة الملك عبدالله التاني بعنوان "" تعميق التحول الديموقراطى : أهداف ومنجزات",الأولى,التانية,الرابعة,الخامسة,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,History,Middle,A,B,False,B,مدة عضوية المجلس التشريعي:,ثلاث سنين,أربع سنين,خمس سنين,,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Physics,High,A,C,False,C,قذيفة ساكنة وزنها 16 كغم انفجرت لجزئين، فلو كانت كتلة الجزء الأول 12 كغم، وبيتحرك بسرعة ٤ م/ ث، يبقى مقدار طاقة حركة الجزء التاني بوحدة الجول:,288,96,192,144,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Arabic Language (Grammar),,D,A,False,A,هجاء الكلمة اللي بين القوسين غلط.  إيه من الخيارات اللي جايه يعتبر هجاء صح؟ في الملعب (مائات) المشاهدين.,ماآت,مآات,ماءات,مئات,QCRI/AraDICE-ArabicMMLU-egy
+EGY_DIALECT,Civics,Middle,D,A,False,A,الثوابت اللي طلعت منها الاردن بمشاركته في قوات حفظ السلام الدولي ما عدا,الموقف الدولي اللي بيستمتع  بيه,دور إنساني نبيل للجيش العربي,السمعة الطيبة اللى بتتمتع بها القوات المسلحة من ناحية التدريب والالتزام,أهداف سياسية,QCRI/AraDICE-ArabicMMLU-egy
